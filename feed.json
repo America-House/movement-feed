@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T18:05:11.936Z",
+  "updatedAt": "2026-11-07T22:17:42.477Z",
   "sources": [
     {
       "id": "giphy:electionorg",
@@ -63,7 +63,7 @@
       "metric": "lifetime_views",
       "date": "2026-11-07",
       "value": 15180517,
-      "collectedAt": "2026-11-07T18:05:11.936Z",
+      "collectedAt": "2026-11-07T22:17:42.477Z",
       "timeZone": "UTC",
       "provider": "GIPHY public channel counter",
       "complete": true
