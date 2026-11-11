@@ -25,6 +25,60 @@
       "platform": "instagram",
       "label": "@americahousedc",
       "url": "https://www.instagram.com/americahousedc/"
+    },
+    {
+      "id": "instagram:buildnewamerica",
+      "platform": "instagram",
+      "label": "@buildnewamerica",
+      "url": "https://www.instagram.com/buildnewamerica/"
+    },
+    {
+      "id": "instagram:brandonconceicaopodcast",
+      "platform": "instagram",
+      "label": "@brandonconceicaopodcast",
+      "url": "https://www.instagram.com/brandonconceicaopodcast/"
+    },
+    {
+      "id": "instagram:questforpresident",
+      "platform": "instagram",
+      "label": "@questforpresident",
+      "url": "https://www.instagram.com/questforpresident/"
+    },
+    {
+      "id": "instagram:questforwhitehouse",
+      "platform": "instagram",
+      "label": "@questforwhitehouse",
+      "url": "https://www.instagram.com/questforwhitehouse/"
+    },
+    {
+      "id": "instagram:questforworldpeace",
+      "platform": "instagram",
+      "label": "@questforworldpeace",
+      "url": "https://www.instagram.com/questforworldpeace/"
+    },
+    {
+      "id": "instagram:questfordebagle",
+      "platform": "instagram",
+      "label": "@questfordebagle",
+      "url": "https://www.instagram.com/questfordebagle/"
+    },
+    {
+      "id": "instagram:evolutionarybrandon",
+      "platform": "instagram",
+      "label": "@evolutionarybrandon",
+      "url": "https://www.instagram.com/evolutionarybrandon/"
+    },
+    {
+      "id": "instagram:brandondebates",
+      "platform": "instagram",
+      "label": "@brandondebates",
+      "url": "https://www.instagram.com/brandondebates/"
+    },
+    {
+      "id": "instagram:clayton.financial",
+      "platform": "instagram",
+      "label": "@clayton.financial",
+      "url": "https://www.instagram.com/clayton.financial/"
     }
   ],
   "observations": [
