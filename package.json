@@ -5,6 +5,7 @@
   "type": "module",
   "description": "Public aggregate view-count feed for America.co",
   "scripts": {
-    "test": "node --test test/*.test.mjs"
+    "test": "node --test test/*.test.mjs",
+    "test:coverage": "node --test --experimental-test-coverage --test-coverage-lines=100 --test-coverage-functions=100 --test-coverage-branches=100 test/*.test.mjs"
   }
 }

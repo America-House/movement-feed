@@ -18,5 +18,12 @@ jobs:
         with:
           node-version: 24
       # No dependencies, so there is no install step.
-      - name: Validate feed.json
-        run: npm test
+      - name: Validate feed.json (with coverage)
+        shell: bash
+        run: npm run test:coverage | tee coverage.txt
+      - name: Coverage summary
+        if: always()
+        shell: bash
+        run: |
+          { echo '## Coverage'; echo '```'; sed -n '/start of coverage report/,/end of coverage report/p' coverage.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
