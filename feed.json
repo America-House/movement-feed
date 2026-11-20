@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T21:17:27.697Z",
+  "updatedAt": "2026-11-20T22:11:36.045Z",
   "sources": [
     {
       "id": "giphy:electionorg",
@@ -243,6 +243,16 @@
       "complete": true
     },
     {
+      "sourceId": "giphy:electionorg",
+      "metric": "lifetime_views",
+      "date": "2026-11-20",
+      "value": 18387353,
+      "collectedAt": "2026-11-20T22:11:21.587Z",
+      "timeZone": "UTC",
+      "provider": "GIPHY public channel counter",
+      "complete": true
+    },
+    {
       "sourceId": "website:america.co",
       "metric": "daily_views",
       "date": "2026-11-04",
@@ -388,6 +398,16 @@
       "date": "2026-11-18",
       "value": 496,
       "collectedAt": "2026-11-19T21:17:27.697Z",
+      "timeZone": "UTC",
+      "provider": "Vercel Web Analytics (production project)",
+      "complete": true
+    },
+    {
+      "sourceId": "website:america.co",
+      "metric": "daily_views",
+      "date": "2026-11-19",
+      "value": 449,
+      "collectedAt": "2026-11-20T22:11:36.045Z",
       "timeZone": "UTC",
       "provider": "Vercel Web Analytics (production project)",
       "complete": true
@@ -838,6 +858,16 @@
       "date": "2026-11-18",
       "value": 6733,
       "collectedAt": "2026-11-19T21:17:27.697Z",
+      "timeZone": "UTC",
+      "provider": "Vercel Web Analytics (production project)",
+      "complete": true
+    },
+    {
+      "sourceId": "website:election.org",
+      "metric": "daily_views",
+      "date": "2026-11-19",
+      "value": 2752,
+      "collectedAt": "2026-11-20T22:11:36.039Z",
       "timeZone": "UTC",
       "provider": "Vercel Web Analytics (production project)",
       "complete": true
